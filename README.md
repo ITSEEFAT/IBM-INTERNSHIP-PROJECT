@@ -145,8 +145,8 @@ AI-Job-Scam-Detector/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/palakkhandelwal22/AI-Job-Scam-Detector.git
-cd AI-Job-Scam-Detector
+git clone https://github.com/ITSEEFAT/IBM-INTERNSHIP-PROJECT.git
+cd IBM-INTERNSHIP-PROJECT
 ```
 
 **2. Install dependencies**
@@ -300,8 +300,8 @@ The app is deployed on **Streamlit Cloud** and is accessible 24/7 at:
 
 **Project:** IBM SkillsBuild × AICTE Artificial Intelligence Internship 2026 — Capstone Project
 
-**Student:** Palak Khandelwal  
-**GitHub:** [@palakkhandelwal22](https://github.com/palakkhandelwal22)
+**Student:** SYED SEEFATUL HAQUE  
+**GitHub:** [@ITSEEFAT](https://github.com/ITSEEFAT)
 
 **Social Impact:** This project directly addresses the growing problem of job scams in India, helping thousands of fresh graduates make safer decisions when applying for jobs online.
 
